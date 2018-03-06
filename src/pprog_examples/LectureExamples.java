@@ -5,6 +5,7 @@ public class LectureExamples {
 		FloatingPointInaccuracy.test();
 		OverheadOfSynchronized.test();
 		ConcurrentAccess.test();
+		ReentrantLocking.test();
 		Deadlock.test();
 	}
 
